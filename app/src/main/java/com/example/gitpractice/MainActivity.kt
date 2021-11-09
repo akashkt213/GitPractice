@@ -8,5 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("This is the content of my second commit.")
+
+        this line is for making a mess nd reverting back.
     }
 }
