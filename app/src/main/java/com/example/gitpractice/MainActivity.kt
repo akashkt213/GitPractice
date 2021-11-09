@@ -8,5 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("This is the content of my second commit.")
+
+        this is the second mistake done for reverting without using command line
     }
 }
